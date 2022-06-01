@@ -70,7 +70,7 @@ h1 {
    
 }
 .container:hover .box3 {
-    transform: translateX(-100%) rotate(-90deg);
+    transform: translateX(-100%) rotate(90deg);
 }
 
 .box4 {
